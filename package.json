@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Learn NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinhHoangg/NodeJS.git"
+  },
+  "author": "MinhHoang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MinhHoangg/NodeJS/issues"
+  },
+  "homepage": "https://github.com/MinhHoangg/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
